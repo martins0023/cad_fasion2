@@ -9,7 +9,7 @@ const Loader = () => (
       height={100}
       className='object-contain'
     />
-    <p className='text-sm font-bold text-primary-grey-300'>Della&apos's Apparel Loading...</p>
+    <p className='text-sm font-bold text-primary-grey-300'>Della&apos;s Apparel Loading...</p>
   </div>
 );
 
